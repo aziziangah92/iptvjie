@@ -278,7 +278,7 @@ https://archive.org/download/red-and-black-modern-opening-profile-youtube-intro-
 
 ############## 3 beradik #################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 
@@ -339,7 +339,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 ############## 3 beradik Backup #################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 
@@ -375,7 +375,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 ############################################  SPORT  ###################################################################
 ########################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 
@@ -878,12 +878,12 @@ https://get.perfecttv.net/mutv.mpd
 ########################################################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987846&extension=ts
-#EXTINF:-1 tvg-id="BEINSPORTS1" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 
+#EXTINF:-1 tvg-id="BEINSPORTS1" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987845&extension=ts
 #EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="AR BEIN SPORTS 2" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 2 
@@ -932,7 +932,7 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987832&ext
 ############################################  SPORT BACKUP  ###################################################################
 ########################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 
@@ -1147,7 +1147,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 ####################################### CHINESE ###################################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 #################################################3
 
@@ -1307,7 +1307,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 ######################################Malaysia#################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 
@@ -1478,7 +1478,7 @@ https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab3362
 ###################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 #EXTINF:-1 tvg-id="202.astro" ch-number="202" group-title="Indian" tvg-logo="https://aqfadtv.xyz/logos/Astro Vinmeen (2024).png",VINMEEN HD
@@ -1614,7 +1614,7 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 ############################################  KOREAN ##############################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 #EXTINF:-1 tvg-id="416.astro" ch-number="416" tvg-name="tvN Movies HD" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1654,7 +1654,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 
 ############################################################### ARABIC CHANNEL ###########################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 #EXTINF:-1 group-title="ARABIC CHANNEL" tvg-id="arriadia3.mr" group-logo="" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arradia 3
@@ -1812,7 +1812,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 ######################################## INDONESIA ################################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1947,7 +1947,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #############################################  SINGAPORE  #########################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://iili.io/JmoSiGe.png" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1973,7 +1973,7 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #############################################  BRUNEI  #########################################################################################################
 ###################################################################################################################################################################
   
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 #EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="RTB Sukmaindera" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="Brunei",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -1990,7 +1990,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 ###################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 #EXTINF:-1 tvg-id="703.astro" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2038,7 +2038,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #####################################  MOVIES ################################################################################################################3#3##
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2132,7 +2132,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 ############################################  Movie backup  ###################################################################
 ########################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="Movies Backup" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
@@ -2290,7 +2290,7 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #########################################  KNOWLEDGE ###############################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 
 #EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/dmax.png",178 DMAX HD
@@ -2363,7 +2363,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #########################################  FAST Channels ###############################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
   
@@ -2430,7 +2430,7 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #################################  DOCUMENTARY  ###################################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet" ch-number=" " tvg-name="Animal Planet HD" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" ch-number="556",556 Animal Planet 
@@ -2515,7 +2515,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 ##############################  KIDS  #############################################################################################################################
 ###################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 
@@ -2644,7 +2644,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 #########################################  NEWS  ###################################################
 ####################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2724,7 +2724,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg" 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" 
 
 
 
@@ -2888,7 +2888,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_ott.mpd
 ################################################################################  PLUTO  ##############################################################################################################################
 #######################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://github.com/aziziangah92/icon/blob/main/IMG_20250716_133609_822.jpg"
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg"
 
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="Pluto",Pluto TV 70s Cinema (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
