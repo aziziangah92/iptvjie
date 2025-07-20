@@ -255,20 +255,20 @@
     <div class="main-menu">
         <h1>Selamat Datang ke OTT Player</h1>
         <!-- Kandungan menu lain boleh ditambah di sini -->
-        <div class="shop-name">Beli di kedai Shopee NeckleNj</div>
+        <div class="shop-name">Beli di kedai Shopee AngahNj</div>
     </div>
 </body>
 </html>
 
 #EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
-#EXTINF:-1 group-title="ORDER ID👉 telegram Aziziangah " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
+#EXTINF:-1 group-title="ORDER ID👉 telegram Aziziangah " group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" tvg-id="AngahNJ" ch-number="100" tvg-name="AngahNJ" tvg-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg", ID ORIGINAL KEDAI SHOPEE AngahNJ
 https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
 
-#EXTINF:-1 group-title="ORDER ID👉Website azizi " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order ID👉 Website NeckleNJ
+#EXTINF:-1 group-title="ORDER ID👉Website azizi " group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" tvg-id="Website AngahNJ" ch-number="100" tvg-name="Website AngahNJ" tvg-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg", Order ID👉 Website AngahNJ
 https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
 
-#EXTINF:-1 group-title="ORDER ID👉Website angah " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="cara Order dekat Website NeckleNJ" ch-number="100" tvg-name="cara Order dekat Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", cara Order dekat👉Website NeckleNJ
+#EXTINF:-1 group-title="ORDER ID👉Website angah " group-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg" tvg-id="cara Order dekat Website AngahNJ" ch-number="100" tvg-name="cara Order dekat Website AngahNJ" tvg-logo="https://raw.githubusercontent.com/aziziangah92/icon/refs/heads/main/IMG_20250716_133609_822.jpg", cara Order dekat👉Website AngahNJ
 https://archive.org/download/2025-05-20-23-18-13/2025-05-20%2023-18-13.mp4
 
 #EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", Tekan Video InI
@@ -3929,4 +3929,4 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTM3U billed-msg="Order ID Dekat WEBSITE https://aziziangah92.github.io/necklenj-site/ or Beli di Kedai Shopee NeckleNJ"
+#EXTM3U billed-msg="Order ID Dekat WEBSITE https://aziziangah92.github.io/Angahnj-site/ or Beli di Kedai Shopee AngahNJ"
